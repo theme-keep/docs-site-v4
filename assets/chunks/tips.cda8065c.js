@@ -1,1 +1,0 @@
-import{_,a as s,S as e}from"./framework.6db2b512.js";const t={},c={class:"tips"};function a(n,o){return s(),e("div",c," 配置指南的目录结构跟主题配置文件 _config.yml 的配置项保持一一对应，方便查看。 ")}const r=_(t,[["render",a],["__scopeId","data-v-01b8ab62"]]);export{r as T};
